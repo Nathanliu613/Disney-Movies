@@ -132,3 +132,4 @@ st.title("References")
 
 st.markdown("Idea of the project was taken from https://www.kaggle.com/igorristovski/exploring-walt-disney-movies-and-box-office-succes/notebook ")
 st.markdown("Dataset source: https://www.kaggle.com/prateekmaj21/disney-movies/code")
+st.markdown("Github Link: https://github.com/Nathanliu613/Disney-Movies")
