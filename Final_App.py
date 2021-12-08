@@ -134,3 +134,4 @@ st.markdown("Idea of the project was taken from https://www.kaggle.com/igorristo
 st.markdown("Dataset source: https://www.kaggle.com/prateekmaj21/disney-movies/code")
 st.markdown("Github Link: https://github.com/Nathanliu613/Disney-Movies")
 st.markdown("Lines 22-24 was taken from https://www.kaggle.com/gsdeepakkumar/exploring-disney-movies")
+st.markdown("The altair portion with the brush was taken from https://christopherdavisuci.github.io/UCI-Math-10/Week3/First-Altair-examples.html#spotify-interactive")
